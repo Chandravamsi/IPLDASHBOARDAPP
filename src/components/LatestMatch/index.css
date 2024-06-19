@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.latest-match-details {
+  color: white;
+  font-family: bree serif;
+  background-color: #0f172a;
+  margin: 10px;
+}
+.latest-details-first-part {
+  display: flex;
+  flex-direction: row;
+}
